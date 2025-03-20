@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepika!
 
-<!--
-**deepika-0816/deepika-0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist & Data Analyst**  
+🎓 **BCA 2nd-year student** | Passionate about **Data Science, SQL, and Python**  
+🔍 Currently exploring **Machine Learning & Data Analytics**  
+📚 Learning **Pandas, NumPy, Data Visualization & Problem-Solving**  
+💡 Interested in **AI, Data Science, and Business Analytics**  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Scikit-learn  
+- **Databases**: MySQL  
+- **Tools**: Jupyter Notebook, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+[GitHub](https://github.com/deepika-0816)  
+
+
+
